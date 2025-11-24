@@ -2,6 +2,12 @@
 name = "antaeus"
 version = "0.1.0"
 edition = "2024"
+readme = "README.md"
+license = "AGPL-3"
+authors = ["Harshal<saturnyx@disroot.org"]
+description = "A Versatile Framework for Vexide"
+repository = "https://github.com/Saturnyx/antaeus"
+categories = ["no-std", "science::robotics"]
 
 [lib]
 name = "antaeus"
