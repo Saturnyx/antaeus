@@ -5,3 +5,6 @@ edition = "2024"
 
 [dependencies]
 leptos = "0.8.16"
+
+[package.metadata.leptos]
+site-root = "docs"
